@@ -1,7 +1,6 @@
 const PEOPLE=[
 {name:"Napoleon Bonaparte",birth:"15 augusti 1769",death:"5 maj 1821",b:[41.9200,8.7380],d:[-15.9450,5.6800],bp:"Ajaccio, Korsika",dp:"Longwood, Sankta Helena",aliases:["napoleon","napoleon bonaparte"],hint:"Fransk militär och kejsare"},
 {name:"Albert Einstein",birth:"14 mars 1879",death:"18 april 1955",b:[48.4011,9.9876],d:[40.3573,-74.6672],bp:"Ulm, Tyskland",dp:"Princeton, USA",aliases:["albert einstein","einstein"],hint:"Fysiker och Nobelpristagare"},
-{name:"Cleopatra",birth:"69 f.Kr.",death:"12 augusti 30 f.Kr.",b:[31.2001,29.9187],d:[31.2001,29.9187],bp:"Alexandria, Egypten",dp:"Alexandria, Egypten",aliases:["cleopatra","cleopatra vii","cleopatra vii philopator"],hint:"Drottning av det ptolemeiska Egypten"},
 {name:"Leonardo da Vinci",birth:"15 april 1452",death:"2 maj 1519",b:[43.7990,10.9220],d:[47.3875,0.6686],bp:"Vinci, Italien",dp:"Amboise, Frankrike",aliases:["leonardo da vinci","da vinci"],hint:"Konstnär, uppfinnare och vetenskapsman"},
 {name:"Mahatma Gandhi",birth:"2 oktober 1869",death:"30 januari 1948",b:[21.6417,69.6293],d:[28.6139,77.2090],bp:"Porbandar, Indien",dp:"New Delhi, Indien",aliases:["gandhi","mahatma gandhi","mohandas gandhi","mohandas karamchand gandhi"],hint:"Indisk självständighetsledare"},
 {name:"William Shakespeare",birth:"23 april 1564",death:"23 april 1616",b:[52.1917,-1.7073],d:[52.1917,-1.7073],bp:"Stratford-upon-Avon, England",dp:"Stratford-upon-Avon, England",aliases:["william shakespeare","shakespeare"],hint:"Engelsk dramatiker och poet"},
@@ -40,14 +39,11 @@ const PEOPLE=[
 {name:"Oscar Wilde",birth:"16 oktober 1854",death:"30 november 1900",b:[53.3498,-6.2603],d:[48.8510,2.3452],bp:"Dublin, Irland",dp:"Paris, Frankrike",aliases:["oscar wilde","wilde"],hint:"Irländsk författare"},
 {name:"Paul Gauguin",birth:"7 juni 1848",death:"8 maj 1903",b:[48.8566,2.3522],d:[-9.1690,-139.0000],bp:"Paris, Frankrike",dp:"Hiva Oa, Franska Polynesien",aliases:["paul gauguin","gauguin"],hint:"Fransk konstnär"},
 {name:"Vincent van Gogh",birth:"30 mars 1853",death:"29 juli 1890",b:[51.5775,4.9389],d:[48.9230,2.1685],bp:"Zundert, Nederländerna",dp:"Auvers-sur-Oise, Frankrike",aliases:["vincent van gogh","van gogh"],hint:"Nederländsk konstnär"},
-{name:"Henrik Ibsen",birth:"20 mars 1828",death:"23 maj 1906",b:[59.2096,9.6087],d:[59.9111,10.7528],bp:"Skien, Norge",dp:"Kristiania, Norge",aliases:["henrik ibsen","ibsen"],hint:"Norsk dramatiker"},
 {name:"Sigmund Freud",birth:"6 maj 1856",death:"23 september 1939",b:[49.8410,16.0488],d:[51.5440,-0.1766],bp:"Příbor, Tjeckien",dp:"London, England",aliases:["sigmund freud","freud"],hint:"Österrikisk neurolog och psykoanalytiker"},
-{name:"Joseph Stalin",birth:"18 december 1878",death:"5 mars 1953",b:[41.9842,44.1089],d:[55.7558,37.6173],bp:"Gori, Georgien",dp:"Moskva, Ryssland",aliases:["joseph stalin","stalin"],hint:"Sovjetisk ledare"},
 {name:"Vladimir Lenin",birth:"22 april 1870",death:"21 januari 1924",b:[54.3282,48.3866],d:[55.7558,37.6173],bp:"Simbirsk, Ryssland",dp:"Gorki, Ryssland",aliases:["vladimir lenin","lenin"],hint:"Rysk revolutionär"},
 {name:"Mata Hari",birth:"7 augusti 1876",death:"15 oktober 1917",b:[53.2012,5.7999],d:[49.2247,2.1048],bp:"Leeuwarden, Nederländerna",dp:"Vincennes, Frankrike",aliases:["mata hari","margaretha zelle"],hint:"Nederländsk dansare och spionanklagad"},
 {name:"Nikola Tesla",birth:"10 juli 1856",death:"7 januari 1943",b:[44.5569,15.1822],d:[40.7644,-73.9730],bp:"Smiljan, Kroatien",dp:"New York, USA",aliases:["nikola tesla","tesla"],hint:"Serbisk-amerikansk uppfinnare"},
 {name:"George Orwell",birth:"25 juni 1903",death:"21 januari 1950",b:[27.4728,95.3250],d:[51.5074,-0.1278],bp:"Motihari, Indien",dp:"London, England",aliases:["george orwell","orwell","eric blair"],hint:"Brittisk författare"},
-{name:"James Joyce",birth:"2 februari 1882",death:"13 januari 1941",b:[53.3498,-6.2603],d:[47.3769,8.5417],bp:"Dublin, Irland",dp:"Zürich, Schweiz",aliases:["james joyce","joyce"],hint:"Irländsk författare"},
 {name:"Josephine Baker",birth:"3 juni 1906",death:"12 april 1975",b:[38.6270,-90.1994],d:[48.8566,2.3522],bp:"St. Louis, USA",dp:"Paris, Frankrike",aliases:["josephine baker","baker"],hint:"Amerikansk-fransk artist"},
 {name:"Ernest Hemingway",birth:"21 juli 1899",death:"2 juli 1961",b:[41.4253,-88.2615],d:[43.3295,-1.9799],bp:"Oak Park, USA",dp:"Ketchum, USA",aliases:["ernest hemingway","hemingway"],hint:"Amerikansk författare"}  
 ];
